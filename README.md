@@ -41,8 +41,8 @@
 ## 🔐 Default Login Credentials
 
 ### 👩‍💼 Administrator (Admin)
-- **Email / Username:** sakshipawar5840@gmail.com  
-- **Password:** Sakshi@8888  
+- **Email / Username:** admin123@gmail.com  
+- **Password:** admin@123  
 - **Role:** Administrator  
 
 ### 🧑‍💼 HR Professional
